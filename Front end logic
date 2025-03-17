@@ -21,10 +21,10 @@ export function name()
       <Container
         classname ={???}
         >
-        <Sidebar feature feature> {/*feature are part of the component that can be put in the atom that you are evoking */}
+        <Sidebar props props> {/*props are part of the component that can be put in the atom that you are evoking */}
         <container classname = "settings settings settings" {/* settings are used to define lenght, height and other caracteristics*/
           <div classname="settings for div"> {/*classnames set ups settings for the div and it will be applied for all containers within the div  */}
-            <container feature feature>
+            <container props props>
               text
             </container>
             <container classname="settings settings settings")
