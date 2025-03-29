@@ -21,10 +21,10 @@ Example of components architecture: https://github.com/Coletivo-Anarquista-Trans
 
 **How to use it**
 
-When working in a file you can import the components by using:
+1. When working in a file you can import the components by using:
 import componentName "from @/path";
 
-When doing this your file will import the component and then the function in the component will be available to use it on the code
+2. When doing this your file will import the component and then the function in the component will be available to use it on the code
  
 There is many other frameworks that we may discover while learning coding. :3
     
