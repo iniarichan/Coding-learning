@@ -1,4 +1,5 @@
 **Design System**
+
 - Objective: Used to organize components that carries functions that can be imported in files to build a page or another feature in example.
 - It remains the repository organized, since you can import the function/component many times in different files instead of creating functions everytime or creating it everytime in files.
 
@@ -19,6 +20,7 @@
 Example of components architecture: https://github.com/Coletivo-Anarquista-Trans/site/tree/dev/src/components
 
 **How to use it**
+
 When working in a file you can import the components by using:
 import componentName "from @/path";
 
