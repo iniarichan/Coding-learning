@@ -5,8 +5,18 @@
   Example:
   For react, there is a framework based on: Atoms, molecules and organism.
   - Atoms are a single function structure
+   Example:
+    https://github.com/Coletivo-Anarquista-Trans/site/blob/dev/src/components/atoms/CyberContainer/index.tsx
+    
   - Molecules are functions made using atoms components
+   Example:
+    https://github.com/Coletivo-Anarquista-Trans/site/blob/dev/src/components/molecules/CyberImage/index.tsx
+  
   - Organism are made from molecules
+   Example:
+    https://github.com/Coletivo-Anarquista-Trans/site/tree/dev/src/components/organism
  
-  There is many other frameworks that we may discover while learning coding. :3
+Example of components architecture: https://github.com/Coletivo-Anarquista-Trans/site/tree/dev/src/components
+ 
+There is many other frameworks that we may discover while learning coding. :3
     
